@@ -1,6 +1,7 @@
 module github.com/aws/copilot-cli
 
-go 1.21
+go 1.22.0
+
 toolchain go1.22.5
 
 require (
